@@ -10,8 +10,8 @@ title_separator: "-"
 name: "Alexander Freeman"
 description: "Alexander Freeman's Academic Portfolio"
 url: "https://rakk510.github.io"
-baseurl: "" 
-repository: "academicpages/academicpages.github.io"
+baseurl: "/Me-Version-2" 
+repository: "Rakk510/Me-Version-2"
 
 # Site Author
 author:
