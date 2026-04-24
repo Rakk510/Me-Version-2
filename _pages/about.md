@@ -1,3 +1,9 @@
+---
+permalink: /
+title: "About Me"
+author_profile: true
+---
+
 Alexander Freeman is a disabled graduate student living and researching in the Canadian Prairies. Alex researches the digital divide between the disabled and abled community and the ways in which public libraries can bridge this gap to create resilient communities of belonging. 
 
 Previously Alex has earned a Master of Education at the University of British Columbia in Ecojustice and Sustainability Education. His graduating thesis was "Unsustainable Frameworks: Centres, Peripheries and Tricksters in Education"
