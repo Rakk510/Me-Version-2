@@ -9,4 +9,4 @@ It is an autobiographical retelling of my first few moment after having a life s
 ## How to Play
 You can play the story directly in your browser by clicking the button below. 
 
-<a href="https://rakk510.github.io/Me-Version-2/assets/twine/Going Home.html" class="btn btn--info">Launch Story (Full Screen)</a>
+<a href="https://rakk510.github.io/Me-Version-2/assets/going-home.html" class="btn btn--info">Launch Story (Full Screen)</a>
