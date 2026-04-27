@@ -16,7 +16,7 @@ repository: "Rakk510/Me-Version-2"
 # Site Author
 author:
   name: "Alex Freeman"
-  avatar: "/assets/profile.jpg"
+  avatar: "assets/profile.jpg"
   pronouns: "He/Him"
   bio: "Alex is a disabled scholar, father and sometimes researcher living in the Canadian Prairies. Alex studies the digital divide between the disabled and abled communities."
   location: "Edmonton, AB / Regina, SK"
