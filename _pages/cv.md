@@ -8,11 +8,11 @@ redirect_from:
 ---
 
 ## Education
-* **MA/MLIS – Digital Humanities and the School of Library and Information Sciences**, University of Alberta (Expected Completion 2030) 
-* **PhD Student (ABD) – Faculty of Education**, University of Regina (2018—2025) 
+* **MA/MLIS – Digital Humanities and the School of Library and Information Sciences**, University of Alberta (Expected Completion 2030)
+* **PhD Student (ABD) – Faculty of Education**, University of Regina (2018—2025)
     * *Note: Medical Leave for Treatment: 2019, 2022-2023.*
-* **Master of Education – Curriculum and Pedagogy**, University of British Columbia (2014—2017) 
-* **Bachelor of Arts – Political Science**, University of Alberta (2009—2012) 
+* **Master of Education – Curriculum and Pedagogy**, University of British Columbia (2014—2017)
+* **Bachelor of Arts – Political Science**, University of Alberta (2009—2012)
 
 ## Research Interests
 Inclusive design, accessible education and structures, equitable libraries, the cultural roots of disablism/ablism, and how digital/real-world knowledge structures influence marginalized communities. 
@@ -28,10 +28,11 @@ Inclusive design, accessible education and structures, equitable libraries, the 
 * Developed resources and curated online databases for public and community use. 
 * Designed research strategies and community outreach to ensure resource accessibility. 
 
-**Student Digitization Assistant – Archer Library** | [cite_start]University of Regina (2020 - 2022) 
+**Student Digitization Assistant – Archer Library** | University of Regina (2020 - 2022) 
 * Organized and scanned historical documents for digital collections. 
 * Created and corrected catalogue information and metadata capture.
+
 ## Awards & Scholarships
 * **Entrance Award Scholarship**, University of Alberta (2026) 
 * **Thesis Only Scholarship**, University of Regina – Faculty of Graduate Studies and Research
-* **Tuition and Travel Scholarships**, DHSI and HILT 
+* **Tuition and Travel Scholarships**, DHSI and HILT
