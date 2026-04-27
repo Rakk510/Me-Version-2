@@ -1,6 +1,6 @@
 ---
 title: "Oh No! A Monster! : Rediscovering Yourself"
-excerpt: "An interactive storytelling and journaling game about reclaiming identity."
+excerpt: "An interactive solo storytelling and journaling game about reclaiming your identity when you seem to have suddenly misplaced it."
 collection: portfolio
 ---
 
