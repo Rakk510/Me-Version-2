@@ -9,56 +9,39 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+---
+layout: archive
+title: "CV"
+permalink: /cv/
+author_profile: true
+---
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+## Education
+* [cite_start]**MA/MLIS – Digital Humanities and the School of Library and Information Sciences**, University of Alberta (Expected Completion 2030) [cite: 2]
+* **PhD Student (ABD) – Faculty of Education**, University of Regina (2018—2025) [cite: 2]
+    * [cite_start]*Note: Medical Leave for Treatment: 2019, 2022-2023.* [cite: 2]
+* [cite_start]**Master of Education – Curriculum and Pedagogy**, University of British Columbia (2014—2017) [cite: 2]
+* **Bachelor of Arts – Political Science**, University of Alberta (2009—2012) [cite: 2]
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+## Research Interests
+Inclusive design, accessible education and structures, equitable libraries, the cultural roots of disablism/ablism, and how digital/real-world knowledge structures influence marginalized communities. 
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+## Selected Research & Professional Experience
+**Research Assistant – First Three Years Project** | University of Alberta (2026) [cite: 29]
+* [cite_start]Compiled research statistics and identified quotes for reports. [cite: 31]
+* [cite_start]Transcribed and anonymized participant interviews following ethical standards. [cite: 32]
+* Validated and retained genuine human user data for analysis. [cite: 33]
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+**Research Student – Community Engagement** | Regina Public Library (2021) [cite: 34]
+* [cite_start]Engaged with library partners and stakeholders on project-specific goals. [cite: 36]
+* [cite_start]Developed resources and curated online databases for public and community use. [cite: 37]
+* Designed research strategies and community outreach to ensure resource accessibility. [cite: 38, 39]
+
+**Student Digitization Assistant – Archer Library** | University of Regina (2020 - 2022) [cite: 40]
+* [cite_start]Organized and scanned historical documents for digital collections. [cite: 42]
+* [cite_start]Created and corrected catalogue information and metadata capture. [cite: 43, 45]
+
+## Awards & Scholarships
+* **Entrance Award Scholarship**, University of Alberta (2026) [cite: 18]
+* [cite_start]**Thesis Only Scholarship**, University of Regina – Faculty of Graduate Studies and Research [cite: 21]
+* [cite_start]**Tuition and Travel Scholarships**, DHSI and HILT [cite: 19, 20]
