@@ -16,9 +16,9 @@ repository: "Rakk510/Me-Version-2"
 # Site Author
 author:
   name: "Alex Freeman"
-  avatar: "assets/profile.jpg"
+  avatar: "/images/profile.jpg"
   pronouns: "He/Him"
-  bio: "Alex is a disabled scholar, father and sometimes researcher living in the Canadian Prairies. Alex studies the digital divide between the disabled and abled communities and how libraries can bridge the gap."
+  bio: "Alex is a disabled scholar, father, and researcher living in the Canadian Prairies. He studies the digital divide between disabled and abled communities and how libraries can bridge the gap."
   location: "Edmonton, AB / Regina, SK"
   employer: "University of Alberta"
   email: "alfreema@ualberta.ca"
