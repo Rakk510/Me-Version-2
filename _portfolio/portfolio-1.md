@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Going Home"
+excerpt: "An autoethnographic story about becoming diabled and the personal toll of extended and repeated periods of critical illness."
 collection: portfolio
 ---
 
