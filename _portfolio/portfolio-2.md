@@ -1,5 +1,5 @@
 ---
-title: "Oh No! A Monster! : Rediscovering Yourself"
+title: "Oh No! A Monster! A Solo-Storytelling One Page RPG"
 excerpt: "An interactive solo storytelling and journaling game about reclaiming your identity when you seem to have suddenly misplaced it."
 collection: portfolio
 ---
